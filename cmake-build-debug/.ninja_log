@@ -1,0 +1,12 @@
+# ninja log v5
+4	632	7102063774798498	CMakeFiles/cp.dir/counting_paths.cpp.obj	532ea1c0c4931dd9
+5	1039	7102038608012773	CMakeFiles/cp.dir/main.cpp.obj	864d27476007b632
+605	1197	7102074449536008	cp.exe	e611181fcfe216c3
+4	604	7102074443660766	CMakeFiles/cp.dir/counting_paths/counting_paths.cpp.obj	8c938d257be62dfb
+1	310	7102079054177655	build.ninja	fcc8f88d799ba9d7
+4	860	7102065515195232	CMakeFiles/cp.dir/watching-tv/main.cpp.obj	4b7a3639536ab8f9
+44	836	7102066841337645	CMakeFiles/cp.dir/counting_paths/main.cpp.obj	d5cfc9174baef8d
+4	776	7102067037873043	CMakeFiles/cp.dir/watching_tv/watching_tv.cpp.obj	2ba215f72110e9fb
+4	878	7102073500112472	CMakeFiles/cp.dir/car_factory/car_factory.cpp.obj	4b604d8e9c24812a
+4	621	7102074285711002	CMakeFiles/cp.dir/car_factory/main.cpp.obj	7c93b2a0dadeafea
+44	928	7102081583465940	CMakeFiles/cp.dir/high_school_physics/high_school_physics.cpp.obj	5ffc1a4bb42b35a5
